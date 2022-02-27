@@ -1,10 +1,8 @@
-# Manuel Montero
-## _- Cifrado de César hecho con JS-_
-##
+####Cifrado de César hecho con JS:
+
 
 ![](https://i.ibb.co/nk8bHVp/Screen-Shot-2022-02-26-at-22-44-09.png)
 
-##
 
 > Lleva el nombre de Julio César y es uno de
 > los tipos de cifrados más antiguos que existe.
@@ -16,13 +14,9 @@
 > alfabeto en el texto plano se desplaza por un
 > número fijo en el alfabeto.
 
-##
 
-# Tecnologías:
-
-- HTML
-- Css
-- JavaScript
-
-## 
-
+####Tecnologías:
+                
++ HTML
++ Css
++ JavaScript
