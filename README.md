@@ -1,4 +1,4 @@
-####Cifrado de César hecho con JS:
+### Cifrado de César hecho con JS:
 
 
 ![](https://i.ibb.co/nk8bHVp/Screen-Shot-2022-02-26-at-22-44-09.png)
@@ -15,7 +15,7 @@
 > número fijo en el alfabeto.
 
 
-####Tecnologías:
+### Tecnologías:
                 
 + HTML
 + Css
