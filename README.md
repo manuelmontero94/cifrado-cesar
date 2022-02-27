@@ -2,7 +2,7 @@
 ## _- Cifrado de César hecho con JS-_
 ##
 
-![](https://ibb.co/5cx6NzZ)
+![](https://i.ibb.co/nk8bHVp/Screen-Shot-2022-02-26-at-22-44-09.png)
 
 ##
 
